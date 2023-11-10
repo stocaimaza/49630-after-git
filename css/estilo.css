@@ -1,0 +1,23 @@
+header {
+    background-color: #94C595;
+}
+
+.anclas {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #3A2449;   
+    margin: 5px;
+
+}
+
+.anclas:hover {
+    background-color: #fafafa;
+    color: #747C92;
+}
+
+/*CARDS*/
+
+.imgFrutitas {
+    height: 75%;
+    object-fit: contain;
+}
